@@ -8,6 +8,7 @@
 ---
 
 ## WezTerm
+[More info](./wezterm/README.md)
 
 * **Purpose:** Highly configurable terminal emulator
 * **Config:** Lua (extremely powerful)
